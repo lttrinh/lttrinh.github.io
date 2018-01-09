@@ -1,7 +1,6 @@
 body { 
     margin: 60px auto;
     width: 70%;
-    position: center;
 }
 
 a {
@@ -14,6 +13,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'futura';
+    text-align: center;
 }
 p {
     font-size: 1.5em;
