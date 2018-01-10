@@ -24,3 +24,8 @@ a {
     color: #FFA07A;
     text-decoration: none;
 }
+
+a:hover {
+    color: #ff7f4d;
+}
+
