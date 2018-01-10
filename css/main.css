@@ -31,8 +31,9 @@ a:hover {
 
 ul {
     font-family: 'futura';
+    font-size: 1.5em;
     border-left: 5px solid #FFA07A;
     background-color: #fff;
-    list-style-type: none;
+    list-style-type: bullet;
     padding: 10px 20px;
 }
