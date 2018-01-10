@@ -29,3 +29,10 @@ a:hover {
     text-decoration: underline;
 }
 
+ul {
+    font-family: 'futura';
+    border-left: 5px solid #FFA07A;
+    background-color: #fff;
+    list-style-type: none;
+    padding: 10px 20px;
+}
