@@ -5,17 +5,17 @@ body {
 }
 
 h1 {
-    font-size: 2.5em;
+    font-size: 3.0em;
     font-family:'futura';
     text-align: center;
     color: #FFA07A;
 }
 
 p {
-    font-size: 1em;
+    font-size: 1.5em;
     font-family: 'futura';
     text-align: center;
-    line-height: 1em;
+    line-height: 1.5em;
     color: #333;
 }
 
@@ -32,7 +32,7 @@ a:hover {
 
 ul {
     font-family: 'futura';
-    font-size: 1em;
+    font-size: 1.5em;
     border-left: 5px solid #FFA07A;
     background-color: #fff;
     list-style-type: bullet;
