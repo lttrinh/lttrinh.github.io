@@ -50,7 +50,7 @@ ul {
     color: #FFA07A;
 }
 
-a.top {
+a:hover.top {
     text-decoration: none;
 }
 
