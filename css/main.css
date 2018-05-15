@@ -52,8 +52,8 @@ ul {
 }
 
 .content {
-    height: 700px;
-    width: 500px;
+    height: 450px;
+    width: 70%;
     background-color: pink;
     font-family: 'futura';
     font-size: 1em;
