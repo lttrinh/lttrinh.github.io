@@ -53,10 +53,10 @@ ul {
 
 .content {
     height: 700px;
-    width: 500px%;
+    width: 500px;
     background-color: pink;
     font-family: 'futura';
     font-size: 1em;
-    text-align: right;
+    text-align: left;
     color: #FFF;
 }
