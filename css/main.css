@@ -47,8 +47,11 @@ ul {
     font-family: 'futura';
     font-size: 3.5em;
     text-align: center;
-    text-decoration: none;
     color: #FFA07A;
+}
+
+p.top {
+    text-decoration: none;
 }
 
 .content {
