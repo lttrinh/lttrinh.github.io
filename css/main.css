@@ -62,4 +62,6 @@ a:hover.top {
     font-size: 1em;
     text-align: left;
     color: #FFF;
+    padding: 50px;
+    align: center;
 }
