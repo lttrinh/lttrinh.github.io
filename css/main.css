@@ -42,3 +42,9 @@ ul {
 .topnav {
     text-align: center;
 }
+
+.header {
+    font-family: 'futura';
+    font-size: 5em;
+    text-align: center;
+}
