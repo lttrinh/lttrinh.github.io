@@ -38,3 +38,7 @@ ul {
     list-style-type: bullet;
     padding: 10px 20px;
 }
+
+topnav {
+    text-align: center;
+}
