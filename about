@@ -9,7 +9,7 @@ title: about
 
 <div class="topnav">
 	<a href="index.html">home</a> | 
-	<a class="active"href="about">about</a> | 
+	<a class="active"href="about.html">about</a> | 
 	<a href="resume">resume</a> | 
 	<a href="work">work samples</a> | 
 	<a href="side">side projects</a> | 
